@@ -1,0 +1,205 @@
+<Font Arial,18,B,,,FF>John 1:1<BR><BR>
+<Font Symbol,14,B,,,FF00FF>en arch hn o logoV kai o logoV hn proV ton qeon kai qeoV hn o logoV<BR>
+<Font Times New Roman,10,,,,0>____________________________________<BR><BR>
+<Font Times New Roman,14,B,I,,0>King James Version:<BR><BR>
+<Font Times New Roman,14,,,,404040>In the beginning was the Word, and the Word was with God, and the Word was God.<br><br>
+<Font Times New Roman,10,,,,0>____________________________________<BR><BR>
+<Font Times New Roman,14,B,I,,0>Current Direct Translation:<br><br>
+<Font Times New Roman,14,,,,FF0000>[In] [the beginning] [was] [the] [wisdom] [and] [the] [wisdom] [was] [with] [the] [God] [and] [God] [was] [that] [wisdom]<BR><BR>
+<Font Times New Roman,10,,,,0>____________________________________<BR><BR>
+<Font Symbol,14,B,,,0>en (en) <font Times New Roman,14,B,I,,0>En <font Times New Roman,14,,,,0>   (en) Strong's Reference # 1722<br>
+<Font Times New Roman,14,,,,0>Preposition<BR><BR>
+<Font Times New Roman,14,,,,0>In, by, with etc.<BR><BR>
+<Font Times New Roman,14,,,,0>Current Synonyms:<BR>
+<Font Times New Roman,14,,I,,0>among, at, by, [in], is in, on, through, with, within<BR><BR>
+<Font Times New Roman,10,,,,0>____________________________________<BR><BR>
+<Font Symbol,14,B,,,0>arch (arch) <font Times New Roman,14,B,I,,0>Arche
+<Font Times New Roman,14,,,,0>  (ar-khay') Strong's Reference # 746<BR>
+<Font Times New Roman,14,,,,0>Noun Feminine<BR><BR>
+<Font Times New Roman,14,,,,0>1. Beginning, origin.<BR>
+<Font Times New Roman,14,,,,0>2. The person or thing that commences, the first person or thing in a series, the leader.<BR>
+<Font Times New Roman,14,,,,0>3. That by which anything begins to be, the origin, the active cause.<BR>
+<Font Times New Roman,14,,,,0>4. The extremity of a thing.<BR>
+<Font Times New Roman,14,,,,0>    A. Of the corners of a sail.<BR>
+<Font Times New Roman,14,,,,0>5. The first place, principality, rule, magistracy.<BR>
+<Font Times New Roman,14,,,,0>A. Of angels and demons.<BR><BR>
+<Font Times New Roman,14,,,,0>Current Synonyms:<BR>
+<Font Times New Roman,14,,I,,0>beginning, corner, first, origin, principality, [the beginning]<BR><BR>
+<Font Times New Roman,10,,,,0>____________________________________<BR><BR>
+<Font Symbol,14,B,,,0>hn (hn) <font Times New Roman,14,B,I,,0>En
+<Font Times New Roman,14,,,,0>  (ane) Strong's Reference # 2258<BR>
+<Font Times New Roman,14,,,,0>Verb<BR><BR>
+<Font Times New Roman,14,,,,0>1. I was, etc.<BR>
+<Font Times New Roman,14,,,,0>2. In, by, with etc.<BR>
+<Font Times New Roman,14,,,,0>Current Synonyms:<BR>
+<Font Times New Roman,14,,I,,0>among, at, by, had, had been, he was, in, it was, on, she was, stood, through, [was], were, with<BR>
+<Font Times New Roman,10,,,,0>____________________________________<BR><BR>
+<Font Symbol,14,B,,,0>o (o) <font Times New Roman,14,B,I,,0>Ho
+<Font Times New Roman,14,,,,0>  (ho) Strong's Reference # 3588<BR><BR>
+<Font Times New Roman,14,,,,0>This, that, these, etc.<BR><BR>
+<Font Times New Roman,14,,,,0>Current Synonyms:<BR>
+<Font Times New Roman,14,,I,,0>a, an, are, are the, by, by the, for, is, of, of a, of the, of these, of this, of those, than of, that, [the], these, this, those, to, to the, to this, to those, unto, which, who, with this<br><BR>
+<Font Times New Roman,10,,,,0>____________________________________<BR><BR>
+<Font Symbol,14,B,,,0>logoV (logoV) <font Times New Roman,14,B,I,,0>Logos
+<Font Times New Roman,14,,,,0>  (log'-os) Strong's Reference # 3056<BR>
+<Font Times New Roman,14,,,,0>Noun Masculine<BR><BR>
+<Font Times New Roman,14,,,,0>Wisdom (from which comes the word Logic).<BR>
+<Font Times New Roman,14,,,,0>1. Of speech.<BR>
+<Font Times New Roman,14,,,,0>    A. A word, uttered by a living voice, embodies a conception or idea.<BR>
+<Font Times New Roman,14,,,,0>    B. What someone has said.<BR>
+<Font Times New Roman,14,,,,0>        1. A word.<BR>
+<Font Times New Roman,14,,,,0>        2. The sayings of God.<BR>
+<Font Times New Roman,14,,,,0>        3. Decree, mandate or order.<BR>
+<Font Times New Roman,14,,,,0>        4. Of the moral precepts given by God.<BR>
+<Font Times New Roman,14,,,,0>        5. Old Testament prophecy given by the prophets.<BR>
+<Font Times New Roman,14,,,,0>        6. What is declared, a thought, declaration, aphorism, a weighty saying, a dictum, a maxim.<BR>
+<Font Times New Roman,14,,,,0>    C. Discourse.<BR>
+<Font Times New Roman,14,,,,0>        1. The act of speaking, speech.<BR>
+<Font Times New Roman,14,,,,0>        2. The faculty of speech, skill and practice in speaking.<BR>
+<Font Times New Roman,14,,,,0>        3. A kind or style of speaking.<BR>
+<Font Times New Roman,14,,,,0>        4. A continuous speaking discourse - instruction.<BR>
+<Font Times New Roman,14,,,,0>    D. Doctrine, teaching.<BR>
+<Font Times New Roman,14,,,,0>    E. Anything reported in speech; a narration, narrative.<BR>
+<Font Times New Roman,14,,,,0>    F. Matter under discussion, thing spoken of, affair, a matter in dispute, case, suit at law.<BR>
+<Font Times New Roman,14,,,,0>    G. The thing spoken of or talked about; event, deed.<BR>
+<Font Times New Roman,14,,,,0>2. Its use as respect to the MIND alone. Wisdom.<BR><BR>
+<Font Times New Roman,14,,,,0>Current Synonyms:<BR>
+<Font Times New Roman,14,,I,,0>a word, discourse, doctrine, for cause, teaching, the cause of, [wisdom], word<BR><BR>
+<Font Times New Roman,10,,,,0>____________________________________<BR><BR>
+<Font Symbol,14,B,,,0>kai (kai) <font Times New Roman,14,B,I,,0>Kai
+<Font Times New Roman,14,,,,0>  (kahee) Strong's Reference # 2532<BR>
+<Font Times New Roman,14,,,,0>Conjunction<BR><BR>
+<Font Times New Roman,14,,,,0>And, also, even, indeed, but.<BR><BR>
+<Font Times New Roman,14,,,,0>Current Synonyms:<BR>
+<Font Times New Roman,14,,I,,0>also, [and], and also, but, even, even indeed, hence, indeed, rather<BR>
+<Font Times New Roman,10,,,,0>____________________________________<BR><BR>
+<Font Times New Roman,10,,,,0>____________________________________<BR><BR>
+<Font Symbol,14,B,,,0>o (o) <font Times New Roman,14,B,I,,0>Ho
+<Font Times New Roman,14,,,,0>  (ho) Strong's Reference # 3588<BR><BR>
+<Font Times New Roman,14,,,,0>This, that, these, etc.<BR><BR>
+<Font Times New Roman,14,,,,0>Current Synonyms:<BR>
+<Font Times New Roman,14,,I,,0>a, an, are, are the, by, by the, for, is, of, of a, of the, of these, of this, of those, than of, that, [the], these, this, those, to, to the, to this, to those, unto, which, who, with this<BR><BR>
+<Font Times New Roman,10,,,,0>____________________________________<BR><BR>
+<Font Symbol,14,B,,,0>logoV (logoV) <font Times New Roman,14,B,I,,0>Logos
+<Font Times New Roman,14,,,,0>  (log'-os) Strong's Reference # 3056<BR>
+<Font Times New Roman,14,,,,0>Noun Masculine<BR><BR>
+<Font Times New Roman,14,,,,0>Wisdom (from which comes the word Logic).<BR>
+<Font Times New Roman,14,,,,0>1. Of speech.<BR>
+<Font Times New Roman,14,,,,0>    A. A word, uttered by a living voice, embodies a conception or idea.<BR>
+<Font Times New Roman,14,,,,0>    B. What someone has said.<BR>
+<Font Times New Roman,14,,,,0>        1. A word.<BR>
+<Font Times New Roman,14,,,,0>        2. The sayings of God.<BR>
+<Font Times New Roman,14,,,,0>        3. Decree, mandate or order.<BR>
+<Font Times New Roman,14,,,,0>        4. Of the moral precepts given by God.<BR>
+<Font Times New Roman,14,,,,0>        5. Old Testament prophecy given by the prophets.<BR>
+<Font Times New Roman,14,,,,0>        6. What is declared, a thought, declaration, aphorism, a weighty saying, a dictum, a maxim.<BR>
+<Font Times New Roman,14,,,,0>    C. Discourse.<BR>
+<Font Times New Roman,14,,,,0>        1. The act of speaking, speech.<BR>
+<Font Times New Roman,14,,,,0>        2. The faculty of speech, skill and practice in speaking.<BR>
+<Font Times New Roman,14,,,,0>        3. A kind or style of speaking.<BR>
+<Font Times New Roman,14,,,,0>        4. A continuous speaking discourse - instruction.<BR>
+<Font Times New Roman,14,,,,0>    D. Doctrine, teaching.<BR>
+<Font Times New Roman,14,,,,0>    E. Anything reported in speech; a narration, narrative.<BR>
+<Font Times New Roman,14,,,,0>    F. Matter under discussion, thing spoken of, affair, a matter in dispute, case, suit at law.<BR>
+<Font Times New Roman,14,,,,0>    G. The thing spoken of or talked about; event, deed.<BR>
+<Font Times New Roman,14,,,,0>2. Its use as respect to the MIND alone. Wisdom.<BR><BR>
+<Font Times New Roman,14,,,,0>Current Synonyms:<BR>
+<Font Times New Roman,14,,I,,0>a word, discourse, doctrine, for cause, teaching, the cause of, [wisdom], word<BR><BR>
+<Font Times New Roman,10,,,,0>____________________________________<BR><BR>
+<Font Symbol,14,B,,,0>hn (hn) <font Times New Roman,14,B,I,,0>En
+<Font Times New Roman,14,,,,0>  (ane) Strong's Reference # 2258<BR>
+<Font Times New Roman,14,,,,0>Verb<BR><BR>
+<Font Times New Roman,14,,,,0>1. I was, etc.<BR>
+<Font Times New Roman,14,,,,0>2. In, by, with etc.<BR><BR>
+<Font Times New Roman,14,,,,0>Current Synonyms:<BR>
+<Font Times New Roman,14,,I,,0>among, at, by, had, had been, he was, in, it was, on, she was, stood, through, [was], were, with<BR><BR>
+<Font Times New Roman,10,,,,0>____________________________________<BR><BR>
+<Font Symbol,14,B,,,0>proV (proV) <font Times New Roman,14,B,I,,0>Pros
+<Font Times New Roman,14,,,,0>  (pros) Strong's Reference # 4314<BR>
+<Font Times New Roman,14,,,,0>Preposition<BR><BR>
+<Font Times New Roman,14,,,,0>1. To the advantage of.<BR>
+<Font Times New Roman,14,,,,0>2. At, near, by.<BR>
+<Font Times New Roman,14,,,,0>3. To, towards, with, with regard to.<BR><BR>
+<Font Times New Roman,14,,,,0>Current Synonyms:<BR>
+<Font Times New Roman,14,,I,,0>at, by, near, to, to the advantage of, towards, [with], with regard to<BR><BR>
+<Font Times New Roman,10,,,,0>____________________________________<BR><BR>
+<Font Symbol,14,B,,,0>ton (o) <font Times New Roman,14,B,I,,0>Ho
+<Font Times New Roman,14,,,,0>  (ho) Strong's Reference # 3588<BR><BR>
+<Font Times New Roman,14,,,,0>This, that, these, etc.<BR><BR>
+<Font Times New Roman,14,,,,0>Current Synonyms:<BR>
+<Font Times New Roman,14,,I,,0>a, an, are, are the, by, by the, for, is, of, of a, of the, of these, of this, of those, than of, that, [the], these, this, those, to, to the, to this, to those, unto, which, who, with this<BR><BR>
+<Font Times New Roman,10,,,,0>____________________________________<BR><BR>
+<Font Symbol,14,B,,,0>qeon (qeoV) <font Times New Roman,14,B,I,,0>Theos
+<Font Times New Roman,14,,,,0>  (theh'-os) Strong's Reference # 2316<BR>
+<Font Times New Roman,14,,,,0>Noun Masculine<BR><BR>
+<Font Times New Roman,14,,,,0>1. A god or goddess, a general name of deities or divinities.<BR>
+<Font Times New Roman,14,,,,0>2. The Godhead.<BR>
+<Font Times New Roman,14,,,,0>    A. God the Father.<BR>
+<Font Times New Roman,14,,,,0>    B. God the Mother; Holy Spirit.<BR>
+<Font Times New Roman,14,,,,0>3. Whatever can in any respect be likened unto God, or resemble him in any way.<BR>
+<Font Times New Roman,14,,,,0>    A. God's representative or viceregent; High Priest.<BR><BR>
+<Font Times New Roman,14,,,,0>Current Synonyms:<BR>
+<Font Times New Roman,14,,I,,0>Divine, [God], Goddess, of God<BR><BR>
+<Font Times New Roman,10,,,,0>____________________________________<BR><BR>
+<Font Symbol,14,B,,,0>kai (kai) <font Times New Roman,14,B,I,,0>Kai
+<Font Times New Roman,14,,,,0>  (kahee) Strong's Reference # 2532<BR>
+<Font Times New Roman,14,,,,0>Conjunction<BR><BR>
+<Font Times New Roman,14,,,,0>And, also, even, indeed, but.<BR><BR>
+<Font Times New Roman,14,,,,0>Current Synonyms:<BR>
+<Font Times New Roman,14,,I,,0>also, [and], and also, but, even, even indeed, hence, indeed, rather<BR>
+<Font Times New Roman,10,,,,0>____________________________________<BR><BR>
+<Font Symbol,14,B,,,0>qeoV (qeoV) <font Times New Roman,14,B,I,,0>Theos
+<Font Times New Roman,14,,,,0>  (theh'-os) Strong's Reference # 2316<BR>
+<Font Times New Roman,14,,,,0>Noun Masculine<BR><BR>
+<Font Times New Roman,14,,,,0>1. A god or goddess, a general name of deities or divinities.<BR>
+<Font Times New Roman,14,,,,0>2. The Godhead.<BR>
+<Font Times New Roman,14,,,,0>    A. God the Father.<BR>
+<Font Times New Roman,14,,,,0>    B. God the Mother; Holy Spirit.<BR>
+<Font Times New Roman,14,,,,0>3. Whatever can in any respect be likened unto God, or resemble him in any way.<BR>
+<Font Times New Roman,14,,,,0>    A. God's representative or viceregent; High Priest.<BR><BR>
+<Font Times New Roman,14,,,,0>Current Synonyms:<BR>
+<Font Times New Roman,14,,I,,0>Divine, [God], Goddess, of God<BR><BR>
+<Font Times New Roman,10,,,,0>____________________________________<BR><BR>
+<Font Symbol,14,B,,,0>hn (hn) <font Times New Roman,14,B,I,,0>En
+<Font Times New Roman,14,,,,0>  (ane) Strong's Reference # 2258<BR>
+<Font Times New Roman,14,,,,0>Verb<BR><BR>
+<Font Times New Roman,14,,,,0>1. I was, etc.<BR>
+<Font Times New Roman,14,,,,0>2. In, by, with etc.<BR><BR>
+<Font Times New Roman,14,,,,0>Current Synonyms:<BR>
+<Font Times New Roman,14,,I,,0>among, at, by, had, had been, he was, in, it was, on, she was, stood, through, [was], were, with<BR><BR>
+<Font Times New Roman,10,,,,0>____________________________________<BR><BR>
+<Font Symbol,14,B,,,0>o (o) <font Times New Roman,14,B,I,,0>Ho
+<Font Times New Roman,14,,,,0>  (ho) Strong's Reference # 3588<BR><BR>
+<Font Times New Roman,14,,,,0>This, that, these, etc.<BR><BR>
+<Font Times New Roman,14,,,,0>Current Synonyms:<BR>
+<Font Times New Roman,14,,I,,0>a, an, are, are the, by, by the, for, is, of, of a, of the, of these, of this, of those, than of, that, [the], these, this, those, to, to the, to this, to those, unto, which, who, with this<BR><BR>
+<Font Times New Roman,10,,,,0>____________________________________<BR><BR>
+<Font Symbol,14,B,,,0>logoV (logoV) <font Times New Roman,14,B,I,,0>Logos
+<Font Times New Roman,14,,,,0>  (log'-os) Strong's Reference # 3056<BR>
+<Font Times New Roman,14,,,,0>Noun Masculine<BR><BR>
+<Font Times New Roman,14,,,,0>Wisdom (from which comes the word Logic).<BR>
+<Font Times New Roman,14,,,,0>1. Of speech.<BR>
+<Font Times New Roman,14,,,,0>    A. A word, uttered by a living voice, embodies a conception or idea.<BR>
+<Font Times New Roman,14,,,,0>    B. What someone has said.<BR>
+<Font Times New Roman,14,,,,0>        1. A word.<BR>
+<Font Times New Roman,14,,,,0>        2. The sayings of God.<BR>
+<Font Times New Roman,14,,,,0>        3. Decree, mandate or order.<BR>
+<Font Times New Roman,14,,,,0>        4. Of the moral precepts given by God.<BR>
+<Font Times New Roman,14,,,,0>        5. Old Testament prophecy given by the prophets.<BR>
+<Font Times New Roman,14,,,,0>        6. What is declared, a thought, declaration, aphorism, a weighty saying, a dictum, a maxim.<BR>
+<Font Times New Roman,14,,,,0>    C. Discourse.<BR>
+<Font Times New Roman,14,,,,0>        1. The act of speaking, speech.<BR>
+<Font Times New Roman,14,,,,0>        2. The faculty of speech, skill and practice in speaking.<BR>
+<Font Times New Roman,14,,,,0>        3. A kind or style of speaking.<BR>
+<Font Times New Roman,14,,,,0>        4. A continuous speaking discourse - instruction.<BR>
+<Font Times New Roman,14,,,,0>    D. Doctrine, teaching.<BR>
+<Font Times New Roman,14,,,,0>    E. Anything reported in speech; a narration, narrative.<BR>
+<Font Times New Roman,14,,,,0>    F. Matter under discussion, thing spoken of, affair, a matter in dispute, case, suit at law.<BR>
+<Font Times New Roman,14,,,,0>    G. The thing spoken of or talked about; event, deed.<BR>
+<Font Times New Roman,14,,,,0>2. Its use as respect to the MIND alone. Wisdom.<BR><BR>
+<Font Times New Roman,14,,,,0>Current Synonyms:<BR>
+<Font Times New Roman,14,,I,,0>a word, discourse, doctrine, for cause, teaching, the cause of, [wisdom], word<BR><BR>
+<Font Times New Roman,10,,,,0>____________________________________<BR>
+<Font Times New Roman,10,,,,0>____________________________________<BR><BR>
+<Font Times New Roman,14,,,,0>Theological Verse Update Notes for John 1:1<BR><BR>
+<Font Times New Roman,14,,,,0>Change "and the Word was God", to, "the Word also was a god"; or ";and Mighty was the Word".<BR>
